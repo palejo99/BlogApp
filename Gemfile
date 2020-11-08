@@ -5,6 +5,8 @@ ruby '2.7.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
+# ndiv for
+gem 'record_tag_helper', '~> 1.0.1' 
 # Annotate models
 gem 'annotate'
 # Use sqlite3 as the database for Active Record
